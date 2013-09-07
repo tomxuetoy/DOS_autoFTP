@@ -1,0 +1,9 @@
+username
+passwd
+bin
+hash
+cd /boot
+dir
+put vxWorks.lzs
+dir
+bye
